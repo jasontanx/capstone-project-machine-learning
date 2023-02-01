@@ -32,3 +32,6 @@ With this, the 3 objectives of the project are listed below:
 
 # Project Overview
 ![git_1](https://user-images.githubusercontent.com/116934441/215822321-ae8134b8-8f66-4604-bca5-5810b564905d.png)
+
+# Update
+01/02/2023 - Updated Introduction section
