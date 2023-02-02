@@ -68,7 +68,7 @@ The data was collected through a questionnaire survey with the [All Questioned A
 
 ![git_3_model_deploy](https://user-images.githubusercontent.com/116934441/216323016-9ba46377-001f-4f4b-845a-d665030d104f.png)
 
-*Sample temporary web application UI prediction - Sample 2*
+*Web application UI prediction (Proof of Concept) - Sample 2*
 
 ![git_4_model_deploy](https://user-images.githubusercontent.com/116934441/216323600-d66ed212-a511-47ad-af10-d24fb332e7ec.png)
 
