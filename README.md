@@ -5,6 +5,7 @@ Topic: **Building a Novel Predictive Model to Predict Tourist Travel Preferences
 
 Presentation Deck: [CP2 - Presentation.pdf](https://github.com/jasontanx/Capstone-Project-Machine-Learning/files/10558660/CP2.-.Presentation.pdf)
 
+
 Steps | Sections Invovled | Tools Used | Main Packages Involved
 --- | --- | --- | --- 
 1 | Initial Data Exploration | Python - Google Colab | N/A 
@@ -61,6 +62,28 @@ The data was collected through a questionnaire survey with the [All Questioned A
 
 ## Deployment
 - Model Deployment Repo: [Click Here](https://github.com/jasontanx/Capstone-Project-Machine-Learning/tree/master/Model%20Deployment)
+- Sample web application could be viewed below
+
+*Sample temporary web application UI - Sample 1*
+
+![git_3_model_deploy](https://user-images.githubusercontent.com/116934441/216323016-9ba46377-001f-4f4b-845a-d665030d104f.png)
+
+*Sample temporary web application UI prediction - Sample 2*
+
+![git_4_model_deploy](https://user-images.githubusercontent.com/116934441/216323600-d66ed212-a511-47ad-af10-d24fb332e7ec.png)
+
+
+# Conclusion
+Aims - **Accomplished**
+- K-Modes clustering model was successfully developed with the data collected from a questionnaire survey.
+
+Objectives - **Accomplished**
+
+- A total of 4 models were developed (LR, DT, ANN and RF)
+- Suggestions on future model iterations provided & Potential collaborations with relevant stakeholders provided
+- Eventually, ANN was selected as the final model to be deployed due to its high prediction accuracy and better evaluation metrics as compared with the others.
+
+![git_2_model_eval](https://user-images.githubusercontent.com/116934441/216322622-2e896001-623f-48de-8d6f-8ffd0f2de5d2.png)
 
 
 # Project Overview
