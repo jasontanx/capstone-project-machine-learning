@@ -5,6 +5,17 @@ Topic: **Building a Novel Predictive Model to Predict Tourist Travel Preferences
 
 Presentation Deck: [CP2 - Presentation.pdf](https://github.com/jasontanx/Capstone-Project-Machine-Learning/files/10558660/CP2.-.Presentation.pdf)
 
+Steps | Sections Invovled | Tools Used | Main Packages Involved
+--- | --- | --- | --- 
+1 | Initial Data Exploration | Python - Google Colab | N/A 
+2 | Exploratory Data Analysis | R Programming | ggplot2 & dplyr 
+3 | Data Pre-Processing | Python - Google Colab | Numpy, Pandas & Sklearn (LabelEncoder & OneHotEncoder)
+4 | Modelling (Clustering) | Python - Google Colab | KModes & Matplotlib 
+5 | Feature Selection | R Programming | Boruta
+6 | Modelling (Classification) | Python - Google Colab | Sklearn (Model Selection, LogisticRegression, DecisionTreeClassifier, MLPClassifier, RandomForestClassifier)
+7 | Evaluation | Python - Google Colab | Sklearn (Classification report & Confusion matrix) 
+8 | Deployment | Python - Google Colab | Streamlit, Pickle & Pyngrok / Ngrok 
+
 # Introduction
 ## Why do I select this topic as my final semester capstone project?
 - Tourism industry’s crucial contribution to Malaysia's Gross Domestic Product ✈️
@@ -29,9 +40,32 @@ With this, the 3 objectives of the project are listed below:
 - To develop data mining models using predictive modelling approaches to predict tourist travel clusters for efficient planning of domestic tour packages.
 - To draft relevant and valid recommendations for the relevant authorities.
 
+# Methodology
+## What methodology was use to carry out the project?
+- “CRoss-Industry Standard Process for Data Mining” or CRISP-DM methodology 
+- Frequently used for data science projects and is the standard data mining methodology used to obtain useful information from the dataset
+- 6 stages invovled in CRISP-DM
+
+The data was collected through a questionnaire survey with the [All Questioned Asked](https://docs.google.com/document/d/1-F5-BUVTxxIqGTwiTcCSBmVmTaE4-8XCIREsdPRw248/edit)
+
+# Project Implementation
+## Data Understanding
+- Initial Data Exploration Repo: [Click Here](https://github.com/jasontanx/Capstone-Project-Machine-Learning/tree/master/Initial%20Data%20Exploration)
+- Exploratory Data Analysis (EDA) Repo: [Click here](https://github.com/jasontanx/Capstone-Project-Machine-Learning/tree/master/Exploratory%20Data%20Analysis)
+
+## Data Preparation & Clustering (Phase 1)
+- Data Pre-Processing & Clustering Repo: [Click Here](https://github.com/jasontanx/Capstone-Project-Machine-Learning/tree/master/Data%20Pre--Processing%20%26%20Clustering)
+
+## Data Preparation & Modelling (Phase 2)
+- Data Pre-Processing & Modelling Repo: [Click Here](https://github.com/jasontanx/Capstone-Project-Machine-Learning/tree/master/Data%20Pre-Processing%20%26%20Modelling)
+
+## Deployment
+- Model Deployment Repo: [Click Here](https://github.com/jasontanx/Capstone-Project-Machine-Learning/tree/master/Model%20Deployment)
+
 
 # Project Overview
 ![git_1](https://user-images.githubusercontent.com/116934441/215822321-ae8134b8-8f66-4604-bca5-5810b564905d.png)
 
 # Update
 01/02/2023 - Updated Introduction section
+
