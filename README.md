@@ -3,8 +3,7 @@ This final semester project is carried out as part of the coruse (*MSc in Data S
 
 Topic: **Building a Novel Predictive Model to Predict Tourist Travel Preferences for Effective Planning of Domestic Tour Packages**
 
-Presentation Deck: [CP2 - Presentation.pdf](https://github.com/jasontanx/Capstone-Project-Machine-Learning/files/10558660/CP2.-.Presentation.pdf)
-
+Presentation Deck: [Click Here](https://www.canva.com/design/DAFIQTkg-D4/kfzYU3i2xx--T5Zdw5PTvg/view?utm_content=DAFIQTkg-D4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 Steps | Sections Invovled | Tools Used | Main Packages Involved
 --- | --- | --- | --- 
@@ -42,7 +41,7 @@ With this, the 3 objectives of the project are listed below:
 - To draft relevant and valid recommendations for the relevant authorities.
 
 # Methodology
-## What methodology was use to carry out the project?
+## What methodology was used to carry out the project?
 - “CRoss-Industry Standard Process for Data Mining” or CRISP-DM methodology 
 - Frequently used for data science projects and is the standard data mining methodology used to obtain useful information from the dataset
 - 6 stages invovled in CRISP-DM
@@ -53,12 +52,20 @@ The data was collected through a questionnaire survey with the [All Questioned A
 ## Data Understanding
 - Initial Data Exploration Repo: [Click Here](https://github.com/jasontanx/Capstone-Project-Machine-Learning/tree/master/Initial%20Data%20Exploration)
 - Exploratory Data Analysis (EDA) Repo: [Click here](https://github.com/jasontanx/Capstone-Project-Machine-Learning/tree/master/Exploratory%20Data%20Analysis)
+  - Univariate Analysis
+  - Bivariate Analysis
 
 ## Data Preparation & Clustering (Phase 1)
 - Data Pre-Processing & Clustering Repo: [Click Here](https://github.com/jasontanx/Capstone-Project-Machine-Learning/tree/master/Data%20Pre--Processing%20%26%20Clustering)
+  - Level Combination (Combining the levels in categorical variables that had many levels) 
+  - E.g. The “age” variable initially had a total of 4 categories. However, the last two categories only account for less than 5 observations. As such, “35-49 years old” group and “50 and above” group were combined with the “26 - 34 years old” group)
+  - Unsupervised Learning: K-Modes Clustering
 
 ## Data Preparation & Modelling (Phase 2)
 - Data Pre-Processing & Modelling Repo: [Click Here](https://github.com/jasontanx/Capstone-Project-Machine-Learning/tree/master/Data%20Pre-Processing%20%26%20Modelling)
+  - Feature Selection: Boruta Algorithm (Finding the answer of...*which variables does not play a significant role in predicting the dependent variable?*)
+  - Label encoding and One-hot encoding
+  - Logistic Regression / Decision Tree / Artificial Neural Network (ANN) / Random Forest
 
 ## Deployment
 - Model Deployment Repo: [Click Here](https://github.com/jasontanx/Capstone-Project-Machine-Learning/tree/master/Model%20Deployment)
@@ -89,6 +96,4 @@ Objectives - **Accomplished**
 # Project Overview
 ![git_1](https://user-images.githubusercontent.com/116934441/215822321-ae8134b8-8f66-4604-bca5-5810b564905d.png)
 
-# Update
-01/02/2023 - Updated Introduction section
 
