@@ -55,6 +55,14 @@ The data was collected through a questionnaire survey with the [All Questioned A
   - Univariate Analysis
   - Bivariate Analysis
 
+Extra Note: What is EDA❓
+1. What questions are we trying to solve/prove?
+2. What kind of data do we have and how do we treat different types?
+3. What's missing from the data and how do we deal with it?
+4. Where are the outliers and why should we care about them?
+5. How can we add, change or remove features to get more out of our data?
+
+
 ## Data Preparation & Clustering (Phase 1)
 - Data Pre-Processing & Clustering Repo: [Click Here](https://github.com/jasontanx/Capstone-Project-Machine-Learning/tree/master/Data%20Pre--Processing%20%26%20Clustering)
   - Level Combination (Combining the levels in categorical variables that had many levels) 
